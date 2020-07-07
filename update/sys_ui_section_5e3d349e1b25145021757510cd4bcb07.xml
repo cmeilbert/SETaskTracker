@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5e3d349e1b25145021757510cd4bcb07" sys_domain="global" table="x_hclse_task_track_task_tracker_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>826172b61be1541021757510cd4bcb9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>1</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>0a6172b61be1541021757510cd4bcb9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>epic</element>
+            <position>2</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>8e6172b61be1541021757510cd4bcb9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>3</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>066172b61be1541021757510cd4bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>blocked</element>
+            <position>4</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>8a6172b61be1541021757510cd4bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>c66172b61be1541021757510cd4bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_effort_hours</element>
+            <position>6</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>4e6172b61be1541021757510cd4bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>responsibility</element>
+            <position>7</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>c26172b61be1541021757510cd4bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignee</element>
+            <position>8</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>4a6172b61be1541021757510cd4bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>9</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>ce6172b61be1541021757510cd4bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>466172b61be1541021757510cd4bcbac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>summary</element>
+            <position>11</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>ca6172b61be1541021757510cd4bcbac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>12</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>426172b61be1541021757510cd4bcbad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>acceptance_criteria</element>
+            <position>13</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>c66172b61be1541021757510cd4bcbad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dependencies</element>
+            <position>14</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>4e6172b61be1541021757510cd4bcbad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge_transfer</element>
+            <position>15</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>c26172b61be1541021757510cd4bcbae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>16</position>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-25 22:42:11</sys_created_on>
+            <sys_id>4a6172b61be1541021757510cd4bcbae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hclse_task_track_task_tracker_table" sys_domain="global" view="Default view">5e3d349e1b25145021757510cd4bcb07</sys_ui_section>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-25 22:42:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_hclse_task_track_task_tracker_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>CEilbert@sdgecontractor.com</sys_created_by>
+            <sys_created_on>2020-06-24 00:57:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e3d349e1b25145021757510cd4bcb07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_hclse_task_track_task_tracker_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Task Tracker" source="x_hclse_task_track">652ab45a1b25145021757510cd4bcb77</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Task Tracker">652ab45a1b25145021757510cd4bcb77</sys_scope>
+            <sys_update_name>sys_ui_section_5e3d349e1b25145021757510cd4bcb07</sys_update_name>
+            <sys_updated_by>CEilbert@sdgecontractor.com</sys_updated_by>
+            <sys_updated_on>2020-06-24 00:57:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
