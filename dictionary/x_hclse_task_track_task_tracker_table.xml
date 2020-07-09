@@ -25,7 +25,7 @@
                 <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
             </choice>
         </element>
-        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+        <element choice="3" default="New" label="Status" max_length="40" name="status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="New" sequence="1" value="1"/>
                 <element inactive_on_update="false" label="Work In Progress" sequence="2" value="2"/>
@@ -38,6 +38,13 @@
             </choice>
         </element>
         <element label="Summary" max_length="154" name="summary" type="string"/>
+        <element choice="1" label="Target Release" max_length="40" name="target_release" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="August Release" value="August Release"/>
+                <element inactive_on_update="false" label="July Release" value="July Release"/>
+                <element inactive_on_update="false" label="September Release" value="September Release"/>
+            </choice>
+        </element>
         <element choice="3" default="Project Item" label="Type" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Project Item" sequence="1" value="1"/>
