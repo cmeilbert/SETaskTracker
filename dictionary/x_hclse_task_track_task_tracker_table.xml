@@ -30,27 +30,30 @@
                 <element inactive_on_update="false" label="New" sequence="1" value="1"/>
                 <element inactive_on_update="false" label="Work In Progress" sequence="2" value="2"/>
                 <element inactive_on_update="false" label="Work Complete" sequence="3" value="3"/>
-                <element inactive_on_update="false" label="In QA" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="In QA/UAT" sequence="4" value="4"/>
                 <element inactive_on_update="false" label="Ready for Prod" sequence="5" value="5"/>
                 <element inactive_on_update="false" label="Change Created" sequence="6" value="6"/>
                 <element inactive_on_update="false" label="Deployed to Prod" sequence="7" value="7"/>
                 <element inactive_on_update="false" label="On Hold" sequence="8" value="8"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="9" value="9"/>
             </choice>
         </element>
         <element label="Summary" max_length="154" name="summary" type="string"/>
-        <element choice="1" label="Target Release" max_length="40" name="target_release" type="choice">
+        <element choice="1" label="Target Release Month" max_length="40" name="target_release" type="choice">
             <choice>
-                <element inactive_on_update="false" label="August Release" value="August Release"/>
-                <element inactive_on_update="false" label="July Release" value="July Release"/>
-                <element inactive_on_update="false" label="September Release" value="September Release"/>
+                <element inactive_on_update="false" label="July Release" sequence="1" value="July Release"/>
+                <element inactive_on_update="false" label="August Release" sequence="2" value="August Release"/>
+                <element inactive_on_update="false" label="September Release" sequence="3" value="September Release"/>
             </choice>
         </element>
+        <element label="Target Release Date" max_length="40" name="target_release_date" type="glide_date"/>
         <element choice="3" default="Project Item" label="Type" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Project Item" sequence="1" value="1"/>
                 <element inactive_on_update="false" label="Incident" sequence="2" value="2"/>
                 <element inactive_on_update="false" label="TVM Task" sequence="3" value="3"/>
-                <element inactive_on_update="false" label="Other" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Operational" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="4"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="4000" name="work_notes" type="journal"/>
